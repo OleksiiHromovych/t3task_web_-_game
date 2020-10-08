@@ -3,4 +3,51 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+
+<!--    colors for balls background-->
+    <color name="color1">#FFC07C</color>
+    <color name="color2">#F6FF44</color>
+    <color name="color3">#AF64E1</color>
+    <color name="color4">#E12762</color>
+    <color name="color5">#97E1D7</color>
+    <color name="color6">#7ADD72</color>
+
+    <color name="colorDeath">#020B01</color>
+    <color name="colorTime">#EAE5DE</color>
+
+    <array name="ballsBackground">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color4</item>
+        <item>@color/color5</item>
+        <item>@color/color6</item>
+
+        <item>@color/colorDeath</item>
+        <item>@color/colorTime</item>
+    </array>
+
+<!--    colors for balls text-->
+    <color name="color1text">#370B85</color>
+    <color name="color2text">#7C2744</color>
+    <color name="color3text">#FFFFFF</color>
+    <color name="color4text">#FFFFFF</color>
+    <color name="color5text">#C53A0E</color>
+    <color name="color6text">#3F1C7C</color>
+
+    <color name="colorDeathText">#B10000</color>
+    <color name="colorTimeText">#000000</color>
+
+    <array name="ballsText">
+        <item>@color/color1text</item>
+        <item>@color/color2text</item>
+        <item>@color/color3text</item>
+        <item>@color/color4text</item>
+        <item>@color/color5text</item>
+        <item>@color/color6text</item>
+        <item>@color/colorDeathText</item>
+        <item>@color/colorTimeText</item>
+    </array>
+
 </resources>
